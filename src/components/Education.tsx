@@ -8,7 +8,7 @@ const Education = () => {
             </div>
             <div>
                 <div>
-                    <div className="flex justify-between w-2/3 w-400 mx-auto text-gray-500">
+                    <div className="flex justify-between w-2/3 w-400 mx-auto text-gray-500 flex-wrap">
                         <div>
                            <p className="upercase"><b>BACHELOR OF DESIGN</b></p> 
                            <p><i>Unisersity/Collage/Institute</i></p>
@@ -20,7 +20,7 @@ const Education = () => {
                     </div>
                     
                     <div>
-                    <div className="flex justify-between w-2/3 w-400 mx-auto text-gray-500 mt-5">
+                    <div className="flex justify-between w-2/3 w-400 mx-auto text-gray-500 mt-5 flex-wrap">
                         <div>
                            <p className="upercase"><b>BACHELOR OF DESIGN</b></p> 
                            <p><i>Unisersity/Collage/Institute</i></p>

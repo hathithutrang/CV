@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="container mx-auto">
-      <div className="cv_wrapper flex">
+      <div className="cv_wrapper flex flex-wrap md:w-full">
         <div className="col_left bg-#3958A8 w-[400px]">
         <Avatar />
         <Contact/>

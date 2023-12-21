@@ -46,14 +46,14 @@ const Expertise = () => {
             <Contents content='Expertise'/>
         </div>
         <div className="flex w-2/3 w-400 mx-auto">
-            <div className="">
+            <div className="hidden md:block">
                 <p >Ms Word</p>
                 <p >Ms Excel</p>
                 <p >Photoshop</p>
                 <p >Illustrator</p>
                 <p >Corel Draw</p>
             </div>
-            <div className="RankStar">
+            <div className="RankStar hidden md:block">
                 <RankStar number={5}/>
                 <RankStar number={3}/>
                 <RankStar number={4}/>

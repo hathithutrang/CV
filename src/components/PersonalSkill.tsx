@@ -13,7 +13,7 @@ const Personal = () => {
       <div className="">
         <Contents content="personal skill"/>
       </div>
-      <div className="w-200 w-400 mx-auto">
+      <div className="w-200 w-400 mx-auto hidden md:block">
         <ul className="skill list-disc ml-5">
             <List item='Public Speaking'/>
             <List item='Financial Management'/>
