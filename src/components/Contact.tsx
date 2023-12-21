@@ -12,7 +12,7 @@ const Contact = () => {
         <div>
             <Contents content='contact'/>
         </div>
-        <div className="w-200 w-400 mx-auto">
+        <div className="w-5/6 w-400 mx-auto">
             <ul className="contact list-disc ml-5">
               <li className='font-bold '><List item= 'Phone'  /></li>
               <p>0972146317</p>
